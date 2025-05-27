@@ -1,4 +1,4 @@
-package BankDetails;
+
 
 public class BankCustomer {
     String custName;
